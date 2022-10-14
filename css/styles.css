@@ -1,9 +1,9 @@
 body {
-  background-color: cadetblue;
+  background-color: #D5924C;
 }
 
 .container {
-  background-color: #fff;
+  background-color: #F5F3EC;
   padding: 1.75rem;
 }
 
@@ -18,13 +18,19 @@ body {
 }
 
 .jumbotron {
-  background-image: linear-gradient(rgb(115, 26, 26),rgb(110, 219, 244),#fff);
+  color: #F5F3EC;
+  background-color: #343327;
+}
+
+.bg-light, .navbar-light, navbar {
+  background-color: #DE9E59;
 }
 
 h2 {
   font-size: 2.5rem;
   font-weight: 300;
   line-height: 2;
+  color: #343327;
 }
 
 .img-thumbnail {
@@ -58,7 +64,7 @@ h2 {
   float: left;
   padding: 20px;
   margin: 10px;
-  background-color: floralwhite;
+  background-color: #ACBD8A;
   box-sizing: border-box;
 }
 
@@ -68,11 +74,11 @@ h2 {
 }
 
 .list-group-item {
-  background-color: floralwhite;
+  background-color: #ACBD8A;
 }
 
 .containerwithin {
-  background-color: rgb(255, 255, 255);
+  background-color: #F5F3EC;
   padding-left: 3rem;
   padding-right: 3rem;
   padding-bottom: 3rem;
@@ -86,4 +92,10 @@ h2 {
 
 .table {
   table-layout: fixed;
+  background-color: #fff;
+}
+
+.thead-dark th {
+  background-color: #657642;
+  border-color: #657642
 }
