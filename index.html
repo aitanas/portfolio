@@ -6,20 +6,36 @@
   <link href="css/styles.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+  <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navigation</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link" href="#about">About</a>
+        <a class="nav-item nav-link" href="#skills">Skills</a>
+        <a class="nav-item nav-link" href="#projects">Projects</a>
+        <a class="nav-item nav-link" href="#interests">Interests & Hobbies</a>
+        <a class="nav-item nav-link" href="#top">Back to top</a>
+      </div>
+    </div>
+  </nav>
 <div class="container">
   <div class="jumbotron">
     <img src="img/aitana.jpeg" alt="A photo of Aitana and her two dogs." id="header-image">
-    <h1>Aitana Shough</h1>
+    <a id="top"><h1 class="display-4">Aitana Shough</h1></a>
     <p class="lead">Developer, dog nerd, and invertebrate enthusiast</p>
   </div>
   <div>
-    <h2>About Me</h2>
+    <a id="about"><h2>About Me</h2></a>
     <p><span class="firstline">Hey! My name is Aitana. Welcome to my Epicodus programming portfolio.</span></p>
     <p>As a teenager, I learned to code HTML and CSS for the fun of making my own websites and blogs. I loved the creativity and problem-solving behind it, and was thrilled at the idea of making something of my own on the web.</p>
     <p>After high school, I got a Bachelor of Science in Biology at the <strong>University of Portland</strong> where I worked on research about the behavior of a small, six-rayed sea star called <em>Leptasterias spp</em>. During this time, I utilized my love for programming in several classes, including a Computational Biology course where I used Python to analyze genetic data. I was initially planning on continuing my academic career and applying for graduate school, but realized with the onset of the COVID-19 pandemic that I really valued spending time at home with my partner and our dog. I felt academia was not right for me and desired a steady, remote job that I was passionate about. After speaking to developer friends and Epicodus alumni, I decided to take the plunge and enroll in Epicodus's full-time bootcamp.</p>
   </div>
+
   <div class="card">
-    <h5 class="card-header">Skills</h5>
+    <a id="skills"><h5 class="card-header">Skills</h5></a>
     <ul class="list-group list-group-flush">
       <li class="list-group-item">HTML</li>
       <li class="list-group-item">CSS</li>
@@ -27,6 +43,7 @@
       <li class="list-group-item">Adobe Creative Suite</li>
     </ul>
   </div>
+
   <div class="containerwithin">
     <div class="card">
       <h5 class="card-header">Goals</h5>
@@ -39,7 +56,9 @@
       </ol>
     </div>
   </div>
-  <h2>Projects</h2>
+
+
+  <a id="projects"><h2>Projects</h2></a>
   <div class="containerwithin">
     <table class="table">
       <thead class="thead-dark">
@@ -85,7 +104,7 @@
     </table>
     </div>
   <div>
-    <h3>Interests & Hobbies</h3>
+    <a id="interests"><h3>Interests & Hobbies</h3></a>
     <img src="img/argus-and-me.jpeg" alt="A photo of me and my dog Argus on a river beach after a hike." class="img-thumbnail">
     <p>When I'm not coding, I like to participate in dog sports with my two hounds, hike with friends, explore tidepools on the coast, and read (primarily fantasy and sci-fi). I dabble in dog photography and graphic design and am particularly involved with my dogs' breed club, the International Society of Silken Windhounds.</p>
   </div>
