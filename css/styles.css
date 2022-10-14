@@ -6,6 +6,11 @@
   padding: 10px;
 }
 
+.img-thumbnail {
+  float: left;
+  max-height: 500px;
+}
+
 .centered-image {
   display: block;
   margin: auto;
