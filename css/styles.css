@@ -32,6 +32,11 @@ body {
   height: auto;
   }
 
+  .firstline {
+    font-size: 1.10rem;
+    font-weight: 300;
+  }
+
 .centered-image {
   display: block;
   margin: auto;
