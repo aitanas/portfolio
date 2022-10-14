@@ -14,7 +14,7 @@
 
 ## Description
 
-This is a simple website serving as my Epicodus portfolio landing page. In it, I have included links to some of my GitHub repositories thus far, a bit of background about myself, skills, and other interests.
+This is a simple website serving as my Epicodus portfolio landing page. In it, I have included links to some of my GitHub repositories thus far and a bit of background about myself, including skills, hobbies, and my other interests. Additionally included are photos of myself and my dogs. :smile:
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,7 @@ This portfolio may be viewed at the corresponding [**GitHub Pages site**](https:
 
 Alternatively, you may clone this project to your local machine by using the following command:
 ```
-git clone https://github.com/aitanas/portfolio
+git clone https://github.com/aitanas/portfolio.git
 ```
 Directions after cloning are as follows:
 1. Open the **portfolio** directory.
