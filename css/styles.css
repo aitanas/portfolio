@@ -1,5 +1,5 @@
 body {
-  background-color: #D5924C;
+  background-color: #343327;
 }
 
 .container {
@@ -19,7 +19,15 @@ body {
 
 .jumbotron {
   color: #F5F3EC;
-  background-color: #343327;
+  background-image: url("/Users/aitana/Documents/Epicodus/Projects/portfolio/img/gus-boots.png");
+  background-color: #F5F3EC;
+  height: 290px;
+  padding-top: 100px;
+}
+
+.display-4 {
+  color: #e3d1b1;
+  font-weight: 400;
 }
 
 .bg-light, .navbar-light, navbar {
@@ -30,7 +38,7 @@ h2 {
   font-size: 2.5rem;
   font-weight: 300;
   line-height: 2;
-  color: #343327;
+  color: #657642;
 }
 
 .img-thumbnail {
@@ -45,8 +53,9 @@ h2 {
 }
 
 .firstline {
-    font-size: 1.10rem;
-    font-weight: 300;
+    font-size: 1.15rem;
+    font-weight: 400;
+    color: #c38748;
 }
 
 .centered-image {
@@ -64,7 +73,7 @@ h2 {
   float: left;
   padding: 20px;
   margin: 10px;
-  background-color: #ACBD8A;
+  background-color: #dc9d45a5;
   box-sizing: border-box;
 }
 
@@ -74,7 +83,7 @@ h2 {
 }
 
 .list-group-item {
-  background-color: #ACBD8A;
+  background-color: #f5f3ec11;
 }
 
 .containerwithin {
