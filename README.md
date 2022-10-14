@@ -2,7 +2,7 @@
 
 #### By Aitana Shough
 
-#### _This is my portfolio landing page created for the first Epicodus independent project._
+#### _Aitana's personal portfolio landing page created for the first Epicodus independent project._
 
 ## Technologies Used
 
@@ -18,18 +18,16 @@ This is a simple website serving as my Epicodus portfolio landing page. In it, I
 
 ## Setup/Installation Requirements
 
-This portfolio may be viewed at the [GitHub Pages site](https://aitanas.github.io/portfolio/index.html) linked here. 
+This portfolio may be viewed at the corresponding [**GitHub Pages site**](https://aitanas.github.io/portfolio/index.html). 
 
-Alternatively, you may clone this project by using the following command
+Alternatively, you may clone this project to your local machine by using the following command:
 ```
 git clone https://github.com/aitanas/portfolio
 ```
 Directions after cloning are as follows:
 1. Open the **portfolio** directory.
-2. Open the file named **index.html** with a browser of your choice.
+2. Open the file named **index.html** with an internet browser (i.e. Google Chrome) of your choice.
 3. Enjoy!
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
@@ -39,9 +37,9 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 Thank you for viewing my portfolio! If you have any questions or would like to reach out, please do not hesitate to contact me.
 
-**MIT License**
+[MIT License](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) [2022] [Aitana Shough]
+Copyright (c) 2022 Aitana Shough
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
