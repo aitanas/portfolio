@@ -64,19 +64,14 @@ h2 {
 }
 
 .firstline {
-    font-size: 1.15rem;
-    font-weight: 400;
-    color: #d8964f;
+  font-size: 1.15rem;
+  font-weight: 400;
+  color: #d8964f;
 }
 
 .centered-image {
   display: block;
   margin: auto;
-}
-
-.scope {
-  width: 400px;
-  overflow: hidden;
 }
 
 .card {
@@ -104,10 +99,6 @@ h2 {
   padding-bottom: 3rem;
   display: block;
   box-sizing: border-box;
-}
-
-.language {
-  width: 20%;
 }
 
 .table {
