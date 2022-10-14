@@ -52,10 +52,21 @@ h2 {
   height: auto;
 }
 
+.img-body {
+  max-height: 450px;
+  margin-top: 20px;
+  margin-left: 40px;
+  padding: 8px;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  height: auto;
+}
+
 .firstline {
     font-size: 1.15rem;
     font-weight: 400;
-    color: #c38748;
+    color: #d8964f;
 }
 
 .centered-image {
@@ -101,10 +112,23 @@ h2 {
 
 .table {
   table-layout: fixed;
-  background-color: #fff;
 }
 
-.thead-dark th {
+.table .thead-dark th {
   background-color: #657642;
-  border-color: #657642
+  border-color: #657642;
+}
+
+.bg-dark {
+  background-color: #d8964f !important;
+}
+
+a, a:active {
+  color: #657642;
+}
+
+a:hover {
+  color:#e3d1b1;
+  text-decoration: none;
+  background-color: #657642c7;
 }
