@@ -31,7 +31,7 @@ Directions after cloning are as follows:
 
 ## Known Bugs
 
-* No known bug issues at this time.
+* The cards for Skills and Tables are not centered on the page, which I have been trying to find a solution for. Hopefully in the future!
 
 ## License
 
