@@ -1,10 +1,20 @@
+body {
+  background-color: cadetblue;
+}
+
+.container {
+  background-color: #fff;
+  padding: 1.75rem;
+}
+
 #header-image {
   float: right;
   border-radius: 50%;
   display: block;
   max-width: 430px;
-  padding-left: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  border: .5rem solid #fff;
 }
 
 .jumbotron {
@@ -14,7 +24,13 @@
 .img-thumbnail {
   float: left;
   max-height: 450px;
-}
+  margin-right: 20px;
+  padding: 8px;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  height: auto;
+  }
 
 .centered-image {
   display: block;
@@ -43,4 +59,11 @@
 
 .list-group-item {
   background-color: floralwhite;
+}
+
+.containerwithin {
+  background-color: #fff;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-bottom: 3rem;
 }
