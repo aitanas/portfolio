@@ -1,0 +1,12 @@
+#header-image {
+  float: right;
+  border-radius: 50%;
+  display: block;
+  max-width: 375px;
+  padding: 10px;
+}
+
+.centered-image {
+  display: block;
+  margin: auto;
+}
