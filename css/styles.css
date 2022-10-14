@@ -21,11 +21,16 @@
   overflow: hidden;
 }
 
-.lists {
+.card {
   width: 45%;
   float: left;
   padding: 20px;
   margin: 10px;
-  border-style: solid;
-  border: bisque 5px;
+ /* border: 0px solid rgb(174, 197, 30); */
+  background-color: floralwhite;
+  box-sizing: border-box;
+}
+
+.list-group-item {
+  background-color: floralwhite;
 }
