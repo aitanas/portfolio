@@ -2,8 +2,13 @@
   float: right;
   border-radius: 50%;
   display: block;
-  max-width: 375px;
-  padding: 10px;
+  max-width: 430px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  background-image: linear-gradient(rgb(115, 26, 26),rgb(110, 219, 244),#fff);
 }
 
 .img-thumbnail {
@@ -29,6 +34,11 @@
  /* border: 0px solid rgb(174, 197, 30); */
   background-color: floralwhite;
   box-sizing: border-box;
+}
+
+.list {
+  line-height: 26px;
+  margin: 7px;
 }
 
 .list-group-item {
