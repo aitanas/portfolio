@@ -21,6 +21,12 @@ body {
   background-image: linear-gradient(rgb(115, 26, 26),rgb(110, 219, 244),#fff);
 }
 
+h2 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2;
+}
+
 .img-thumbnail {
   float: left;
   max-height: 450px;
@@ -30,12 +36,12 @@ body {
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   height: auto;
-  }
+}
 
-  .firstline {
+.firstline {
     font-size: 1.10rem;
     font-weight: 300;
-  }
+}
 
 .centered-image {
   display: block;
@@ -52,7 +58,6 @@ body {
   float: left;
   padding: 20px;
   margin: 10px;
- /* border: 0px solid rgb(174, 197, 30); */
   background-color: floralwhite;
   box-sizing: border-box;
 }
@@ -67,8 +72,18 @@ body {
 }
 
 .containerwithin {
-  background-color: rgb(199, 232, 236);
+  background-color: rgb(255, 255, 255);
   padding-left: 3rem;
   padding-right: 3rem;
   padding-bottom: 3rem;
+  display: block;
+  box-sizing: border-box;
+}
+
+.language {
+  width: 20%;
+}
+
+.table {
+  table-layout: fixed;
 }
