@@ -19,7 +19,7 @@ body {
 
 .jumbotron {
   color: #F5F3EC;
-  background-image: url("/Users/aitana/Documents/Epicodus/Projects/portfolio/img/gus-boots.png");
+  background-image: url("../img/gus-boots.png");
   background-color: #F5F3EC;
   height: 290px;
   padding-top: 100px;
