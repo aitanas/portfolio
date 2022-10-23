@@ -18,7 +18,7 @@ This is a simple website serving as my Epicodus portfolio landing page. In it, I
 
 ## Setup/Installation Requirements
 
-This portfolio may be viewed at the corresponding [**GitHub Pages site**](https://aitanas.github.io/portfolio/index.html). 
+This portfolio may be viewed at the corresponding [**GitHub Pages site**](https://aitanas.github.io/portfolio). 
 
 Alternatively, you may clone this project to your local machine by using the following command:
 ```
